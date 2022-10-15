@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkinweb=self.webpackChunkinweb||[]).push([[47],{2493:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var u=t(7294),r=t(439),c=t(4677);function l(){return u.createElement(r.Z,null,u.createElement(c.Z,{type:"login"}))}}}]);
+//# sourceMappingURL=component---src-pages-login-tsx-227398ae08789a9e7aa1.js.map
