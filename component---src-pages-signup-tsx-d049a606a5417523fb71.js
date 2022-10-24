@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkinweb=self.webpackChunkinweb||[]).push([[278],{8133:function(e,t,n){n.r(t),n.d(t,{default:function(){return s}});var u=n(7294),a=n(2529),c=n(4677);function s(){var e=u.useState(""),t=(e[0],e[1],u.useState({type:0}));t[0],t[1];return u.createElement(a.Z,null,u.createElement("section",{className:"section"},u.createElement(c.Z,{type:"signup"})))}}}]);
-//# sourceMappingURL=component---src-pages-signup-tsx-d049a606a5417523fb71.js.map
